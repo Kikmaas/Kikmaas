@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Kikmaas&fontSize=90&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Informatics%20Student&descAlignY=80&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Kikmaas&fontSize=90&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Informatics%20Student&descAlignY=80&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ I am an Informatics Engineering student passionate about Software Development. I
 <ul>
   <li>🔭 Currently working on: <b>E-Commerce Platform</b></li>
   <li>🌱 Currently exploring: <b>WebSockets & Real-time Communication</b></li>
-  <li>💬 Specialized in: <b>PHP, Laravel, Java, React Ecosystem</b></li>
+  <li>💬 Specialized in: <b>PHP, Laravel, Next, React</b></li>
   <li>⚡ Fun fact: <b>I focused more at coding when listening to Rock music.</b> 🎸</li>
 </ul>
 
@@ -47,6 +47,8 @@ I am an Informatics Engineering student passionate about Software Development. I
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowbite-1C64F2?style=for-the-badge&logo=flowbite&logoColor=white" />
