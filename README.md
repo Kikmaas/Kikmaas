@@ -64,7 +64,7 @@ I am an Informatics Engineering student passionate about Software Development. I
 <h3>📊 Activity & Achievements</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kikmaas&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currFire=3F8CFF" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kikmaas&theme=tokyonight" alt="GitHub Stats" width="80%" />
   
   <br/><br/>
   
