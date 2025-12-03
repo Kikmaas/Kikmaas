@@ -22,7 +22,7 @@
 
 <h3>👨‍💻 About Me</h3>
 <p>
-I am an Informatics Engineering student passionate about Software Development. My focus is on backend efficiency using <b>Laravel</b>, as well as creating responsive front-ends with <b>React & Next.js</b>.
+I am an Informatics Engineering student passionate about Software Development. My focus is on backend efficiency using <b>Laravel & Java</b>, as well as creating responsive front-ends with <b>React & Next.js</b>.
 </p>
 
 <ul>
@@ -43,4 +43,42 @@ I am an Informatics Engineering student passionate about Software Development. M
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowbite-1C64F2?style=for-the-badge&logo=flowbite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br/>
+
+<h3>📊 Activity & Achievements</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kikmaas&theme=tokyonight" alt="GitHub Stats" width="80%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Kikmaas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+  <br/><br/>
+  
+  <blockquote>
+    <i>"An idiot admires complexity, a genius admires simplicity."</i><br>
+    — <b>Terry A. Davis</b>
+  </blockquote>
+</div>
